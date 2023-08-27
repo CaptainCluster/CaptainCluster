@@ -4,7 +4,7 @@ What do I use/possess
 JavaScript, Python, Java, C, Bash
 
 **Tools:**
-Visual Studio Code, Visual Studio, Figma, Oracle VM VirtualBox
+Visual Studio Code, Visual Studio, Android Studio, Figma, Oracle VM VirtualBox
 
 **Operating Systems:**
 Windows, Linux (Linux Mint & Ubuntu)
