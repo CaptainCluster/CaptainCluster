@@ -1,13 +1,13 @@
 What do I use/possess
 ---
-**Skills:**
+**Programming languages:**
 JavaScript, Python, Java, C, Bash
 
 **Tools:**
 Visual Studio Code, Visual Studio, Figma, Oracle VM VirtualBox
 
 **Operating Systems:**
-Windows, Linux
+Windows, Linux (Linux Mint & Ubuntu)
 
 My stats
 ---
