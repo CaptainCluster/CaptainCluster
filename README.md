@@ -9,6 +9,10 @@ Visual Studio Code, Visual Studio, Android Studio, Figma, Oracle VM VirtualBox
 **Operating Systems:**
 Windows, Linux (Linux Mint & Ubuntu)
 
+My shenanigans
+---
+🌱 I’m currently learning C++
+
 My stats
 ---
 <div>
