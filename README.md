@@ -11,7 +11,7 @@ Windows, Linux (Linux Mint & Ubuntu)
 
 My shenanigans
 ---
-🌱 I’m currently learning C++
+🌱 I’m currently learning C++ and React (JavaScript library)
 
 My stats
 ---
