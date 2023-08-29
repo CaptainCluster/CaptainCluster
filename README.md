@@ -1,4 +1,4 @@
-What do I use/possess
+What do I use?
 ---
 **Programming languages:**
 JavaScript, Python, Java, C, Bash
