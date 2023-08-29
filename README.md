@@ -30,7 +30,7 @@ Off-topic
 ---
 📢 I can speak Finnish and English fluently. In addition, I know some French and Swedish. 
 
-❔It's beautiful how many opportunities the world contains. It is uncertain where I will be in the future.
+❔It's beautiful how many opportunities the world contains. It is uncertain where life will take me.
 
 
 
