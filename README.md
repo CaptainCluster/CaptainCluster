@@ -1,12 +1,12 @@
 What do I use?
 ---
-**Programming languages:**
+⌨️**Programming languages:**
 JavaScript, Python, Java, C, Bash
 
-**Tools:**
+🛠️**Tools:**
 Visual Studio Code, Visual Studio, Android Studio, Figma, Oracle VM VirtualBox
 
-**Operating Systems:**
+🖥️**Operating Systems:**
 Windows, Linux (Linux Mint & Ubuntu)
 
 My shenanigans
