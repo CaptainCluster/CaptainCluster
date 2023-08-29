@@ -13,6 +13,8 @@ My shenanigans
 ---
 🌱 I’m currently learning C++ and React (JavaScript library)
 
+:computer: I'm enhancing my knowledge by studying at LUT University and FreeCodeCamp
+
 My stats
 ---
 <div>
