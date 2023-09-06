@@ -11,7 +11,7 @@ Windows, Linux (Linux Mint & Ubuntu)
 
 My shenanigans
 ---
-🌱 I’m currently learning C++ and React (JavaScript library)
+🌱 I’m currently learning React (JavaScript library)
 
 :computer: I'm enhancing my knowledge by studying at LUT University and FreeCodeCamp
 
