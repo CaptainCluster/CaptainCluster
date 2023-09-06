@@ -33,9 +33,3 @@ Off-topic
 🌐 I love studying various cultures and languages.
 
 ❔It's beautiful how many opportunities the world contains. It is uncertain where life will take me.
-
-
-
-Some "random" penguin
----
-![image](https://github.com/CaptainCluster/CaptainCluster/assets/121576355/90936045-b005-4963-a92b-0078ff8adb90)
