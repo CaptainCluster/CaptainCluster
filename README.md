@@ -7,7 +7,7 @@ JavaScript, Python, Java, C, Bash
 Visual Studio Code, Visual Studio, Android Studio, Figma, Oracle VM VirtualBox
 
 🖥️**Operating Systems:**
-Windows, Linux (Linux Mint & Ubuntu)
+Windows, Linux (Artix Linux & Linux Mint)
 
 My shenanigans
 ---
