@@ -32,6 +32,6 @@ Off-topic
 ---
 📢 I can speak Finnish and English fluently. In addition, I know some French and Swedish. 
 
-🌐 I love studying various cultures and languages.
+🌐 I love studying various cultures and languages. Currently I am learning Chinese.
 
 ❔It's beautiful how many opportunities the world contains. It is uncertain where life will take me.
