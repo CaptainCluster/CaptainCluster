@@ -15,6 +15,8 @@ My shenanigans
 
 :computer: I'm enhancing my knowledge by studying at LUT University and FreeCodeCamp
 
+🔧 I'm maintaining my current GitHub repositories and developing new programs whenever I have the time 
+
 My stats
 ---
 <div>
