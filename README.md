@@ -17,6 +17,8 @@ My shenanigans
 
 🔧 I'm maintaining my current GitHub repositories and developing new programs whenever I have the time 
 
+🤝 I love networking with people, thus I am constantly meeting new faces
+
 My stats
 ---
 <div>
