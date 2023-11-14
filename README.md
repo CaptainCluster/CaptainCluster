@@ -11,13 +11,13 @@ Windows, Linux
 
 My shenanigans
 ---
-:computer: I utilize the opportunities provided by LUT University and FreeCodeCamp to enhance my knowledge and experience
+:computer: I utilize the opportunities provided by **LUT University** and **FreeCodeCamp** to enhance my knowledge and experience
 
 💂‍♂️ I am increasing my knowledge in **Computer Networking** and basics of **Cyber Security** 
 
-🔧 I'm maintaining my current GitHub repositories and developing new programs whenever I have the time 
+🔧 Provided the time is right, I show my passion towards **software engineering** by maintaining and creating new GitHub Repositories
 
-🤝 I love networking with people, thus I am constantly meeting new faces
+🤝 I love networking with people, thus I am constantly meeting new faces from all around the world
 
 My stats
 ---
@@ -32,8 +32,8 @@ My stats
 
 Off-topic
 ---
-📢 I can speak Finnish and English fluently. In addition, I know some French and Swedish. 
+📢 I can speak **Finnish** and **English** fluently. In addition, I know some **French** and **Swedish**. 
 
-🌐 I love studying various cultures and languages. Currently I am learning Chinese.
+🌐 I love studying various cultures and languages. Currently I am learning **Chinese**.
 
 ❔It's beautiful how many opportunities the world contains. It is uncertain where life will take me.
