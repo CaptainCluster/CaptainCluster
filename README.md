@@ -7,13 +7,13 @@ JavaScript, Python, Java, C, Bash
 Visual Studio Code, Visual Studio, Android Studio, Figma, Oracle VM VirtualBox
 
 🖥️**Operating Systems:**
-Windows, Linux (Artix Linux & Linux Mint)
+Windows, Linux
 
 My shenanigans
 ---
-🌱 I’m currently learning React (JavaScript library)
+:computer: I utilize the opportunities provided by LUT University and FreeCodeCamp to enhance my knowledge and experience
 
-:computer: I'm enhancing my knowledge by studying at LUT University and FreeCodeCamp
+💂‍♂️ I am increasing my knowledge in **Computer Networking** and basics of **Cyber Security** 
 
 🔧 I'm maintaining my current GitHub repositories and developing new programs whenever I have the time 
 
