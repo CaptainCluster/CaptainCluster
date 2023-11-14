@@ -3,6 +3,9 @@ What do I use?
 ⌨️**Programming languages:**
 JavaScript, Python, Java, C, Bash
 
+🧰**Frameworks:**
+Django
+
 🛠️**Tools:**
 Visual Studio Code, Visual Studio, Android Studio, Figma, Oracle VM VirtualBox
 
