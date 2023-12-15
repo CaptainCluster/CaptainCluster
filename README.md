@@ -16,7 +16,7 @@ My shenanigans
 ---
 :computer: I utilize the opportunities provided by **LUT University**, **MOOC** and **FreeCodeCamp** to enhance my knowledge and experience
 
-💂‍♂️ I am increasing my knowledge in **Computer Networking** and basics of **Cyber Security** 
+💂‍♂️ Currently I am increasing my knowledge in **Programming with C++** and **Computer Networks**
 
 🔧 Provided the time is right, I show my passion towards **software engineering** by maintaining and creating new GitHub Repositories
 
