@@ -4,10 +4,10 @@ What do I use?
 JavaScript, Python, Java, C, Bash
 
 🧰**Frameworks:**
-Django
+Node.js
 
 🛠️**Tools:**
-Visual Studio Code, Visual Studio, Android Studio, Figma, Oracle VM VirtualBox
+Visual Studio Code, Visual Studio, Android Studio, Oracle VM VirtualBox
 
 🖥️**Operating Systems:**
 Windows, Linux
