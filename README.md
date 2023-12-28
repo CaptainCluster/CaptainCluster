@@ -1,7 +1,7 @@
 What do I use?
 ---
 ⌨️**Programming languages:**
-JavaScript, Python, Java, C, Bash
+JavaScript, Python, Java, C++, C, Bash
 
 🧰**Frameworks:**
 Node.js
