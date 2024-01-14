@@ -14,7 +14,7 @@ Windows, Linux
 
 My shenanigans
 ---
-:computer: I utilize the opportunities provided by **LUT University**, **MOOC** and **FreeCodeCamp** to enhance my knowledge and experience
+:computer: I utilize opportunities provided by establishments, such as **MOOC**, **FreeCodeCamp** and various software engineering companies to enhance my skills
 
 💂‍♂️ Currently I am increasing my knowledge in **Programming with C++** and **Computer Networks**
 
