@@ -3,9 +3,6 @@ What do I use?
 ⌨️**Programming languages:**
 JavaScript, Python, Java, C++, C, Bash
 
-🧰**Frameworks:**
-Node.js
-
 🛠️**Tools:**
 Visual Studio Code, Visual Studio, Android Studio, Oracle VM VirtualBox
 
