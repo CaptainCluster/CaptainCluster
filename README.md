@@ -16,7 +16,7 @@ My shenanigans
 ---
 :computer: I utilize opportunities provided by establishments, such as **MOOC**, **FreeCodeCamp** and various software engineering companies to enhance my skills
 
-💂‍♂️ Currently I am increasing my knowledge in **Programming with C++** and **Computer Networks**
+💂‍♂️ Currently I am increasing my knowledge in **Programming with C++** and **Front-end with React**
 
 🔧 Provided the time is right, I show my passion towards **software engineering** by maintaining and creating new GitHub Repositories
 
