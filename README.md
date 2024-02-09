@@ -32,8 +32,8 @@ My stats
 
 Off-topic
 ---
-📢 I can speak **Finnish** and **English** fluently. In addition, I know some **French** and **Swedish**. 
+📢 I can speak **Finnish** and **English** fluently. In addition, I know some **French**, **Swedish**, and basics of **Chinese**. 
 
-🌐 I love studying various cultures and languages. Currently I am learning **Chinese**.
+🌐 I love studying various cultures and languages.
 
 ❔It's beautiful how many opportunities the world contains. It is uncertain where life will take me.
