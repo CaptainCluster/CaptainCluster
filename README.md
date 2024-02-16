@@ -1,13 +1,16 @@
 What do I use?
 ---
-⌨️**Programming languages:**
+⌨️**Programming language:**
 JavaScript, Python, Java, C++, C, Bash
 
-🛠️**Tools:**
-Visual Studio Code, Visual Studio, Android Studio, Oracle VM VirtualBox
+💻**IDE/Text Editor:** 
+Visual Studio Code, Visual Studio, NeoVim, Android Studio
 
-🖥️**Operating Systems:**
+🖥️**OS:**
 Windows, Linux
+
+🛠️**Other cool stuff:**
+ Oracle VM VirtualBox, Unity
 
 My shenanigans
 ---
