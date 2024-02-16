@@ -37,3 +37,5 @@ Off-topic
 🌐 I love studying various cultures and languages.
 
 ❔It's beautiful how many opportunities the world contains. It is uncertain where life will take me.
+
+:shipit: I use Arch btw
