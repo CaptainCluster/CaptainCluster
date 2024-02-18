@@ -18,9 +18,7 @@ My shenanigans
 
 💂‍♂️ Currently I am increasing my knowledge in **Database Systems** and **Front-end with React**
 
-🔧 Provided the time is right, I show my passion towards **software engineering** by maintaining and creating new GitHub Repositories
-
-🤝 I love networking with people, thus I am constantly meeting new faces from all around the world
+🤝 I am social and love networking with people, thus I am constantly meeting new faces from all around the world.
 
 My stats
 ---
