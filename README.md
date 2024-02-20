@@ -1,7 +1,7 @@
 What do I use?
 ---
 ⌨️**Programming language:**
-JavaScript, Python, Java, C++, C, Bash
+Python, JavaScript, Java, C++, C, Bash
 
 💻**IDE/Text Editor:** 
 Visual Studio Code, Visual Studio, NeoVim, Android Studio
