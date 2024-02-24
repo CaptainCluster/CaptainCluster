@@ -36,5 +36,3 @@ Off-topic
 📢 I can speak **Finnish** and **English** fluently. In addition, I know some **French**, **Swedish**, and basics of **Chinese**. 
 
 🧑‍🎓 And yes, I love studying various cultures and languages.
-
-:shipit: I use Arch btw 
