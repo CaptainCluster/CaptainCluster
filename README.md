@@ -16,7 +16,7 @@ My shenanigans
 ---
 :computer: I utilize opportunities provided by establishments, such as **MOOC**, **FreeCodeCamp** and various software engineering companies to enhance my skills
 
-💂‍♂️ Currently I am increasing my knowledge in **Database Systems**, **Front-end with React** and **Assembly Language**
+💂‍♂️ Currently I am increasing my knowledge in **Front-end with React** and **Assembly Language**
 
 🤝 I am social and love networking with people, thus I am constantly meeting new faces from all around the world.
 
