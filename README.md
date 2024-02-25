@@ -1,6 +1,6 @@
 What do I use?
 ---
-⌨️**Programming language:**
+⌨️**Languages:**
 Python, JavaScript, Java, C++, C, SQL, Bash
 
 💻**IDE/Text Editor:** 
