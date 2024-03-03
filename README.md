@@ -1,7 +1,7 @@
 What do I use?
 ---
 ⌨️**Languages:**
-Python, JavaScript, Java, C++, C, SQL, Bash
+Python, JavaScript, Java, SQL, C++, C, Bash
 
 💻**IDE/Text Editor:** 
 Visual Studio Code, Visual Studio, NeoVim, Android Studio
