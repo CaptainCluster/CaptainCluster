@@ -24,10 +24,10 @@ My stats
 ---
 <div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=captaincluster&show_icons=true&theme=radical" alt="GitHub Stats" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=captaincluster&show_icons=true&theme=maroongold" alt="GitHub Stats" height="200"/>
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=captaincluster&layout=compact&theme=radical" alt="Top Languages" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=captaincluster&layout=donut&theme=maroongold" alt="Top Languages" height="200"/>
     </a>
 </div>
 
