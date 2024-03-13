@@ -1,4 +1,4 @@
-What do I use?
+What do I use? 💻
 ---
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -17,7 +17,7 @@ What do I use?
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-My shenanigans
+My shenanigans 🃏
 ---
 :computer: I utilize opportunities provided by establishments, such as **MOOC**, **FreeCodeCamp** and various software engineering companies to enhance my skills
 
@@ -25,7 +25,7 @@ My shenanigans
 
 🤝 I am social and love networking with people, thus I am constantly meeting new faces from all around the world.
 
-My stats
+My stats 📊
 ---
 <div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
