@@ -36,9 +36,3 @@ My stats
     </a>
 </div>
 
-Off-topic
----
-📢 I can speak **Finnish** and **English** fluently. In addition, I know some **French**, **Swedish**, and basics of **Chinese**. 
-
-🤘 Rock & Metal stand firmly as my favorite music genres.
-
