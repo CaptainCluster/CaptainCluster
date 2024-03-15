@@ -19,7 +19,9 @@ What do I use? 💻
 
 My shenanigans 🃏
 ---
-:computer: I utilize opportunities provided by establishments, such as **MOOC**, **FreeCodeCamp** and various software engineering companies to enhance my skills
+
+:computer: Not only do I study Software Engineering in a university, I program during my free time and utilize opportunities provided by establishments,
+such as **MOOC** and **FreeCodeCamp**.
 
 💂‍♂️ Currently I am increasing my knowledge in **Front-end with React** and  **Database Systems Management with PostgreSQL**
 
