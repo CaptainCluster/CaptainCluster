@@ -26,7 +26,7 @@ My shenanigans 🃏
 :computer: Not only do I study Software Engineering in a university, I program during my free time and utilize opportunities provided by establishments,
 such as **MOOC** and **FreeCodeCamp**.
 
-💂‍♂️ Currently I am increasing my knowledge in **Front-end with React** and  **Database Systems Management with PostgreSQL**
+💂‍♂️ Currently I am increasing my knowledge in **Back-End Development and APIs** and  **Database Systems Management with PostgreSQL**
 
 🤝 I am social and love networking with people, thus I am constantly meeting new faces from all around the world.
 
