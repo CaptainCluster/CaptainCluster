@@ -32,7 +32,7 @@ My shenanigans 🃏
 :computer: Not only do I study Software Engineering in a university, I program during my free time and utilize opportunities provided by establishments,
 such as **MOOC** and **FreeCodeCamp**.
 
-💂‍♂️ Currently I am increasing my knowledge in **Back-End Development and APIs**
+💂‍♂️ Currently I am enhancing my skills in **Full-Stack Development**
 
 🤝 I am social and love networking with people, thus I am constantly meeting new faces from all around the world.
 
