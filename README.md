@@ -37,7 +37,8 @@ My shenanigans 🃏
 :computer: Not only do I study Software Engineering in a university, I program during my free time and utilize opportunities provided by establishments,
 such as **MOOC** and **FreeCodeCamp**.
 
-💂‍♂️ Currently I am enhancing my skills in **Full-Stack Development**
+💂‍♂️ Currently I am **contributing** to a project as a volunteer front-end developer. I am also working on my own personal full-stack application
+with **React TypeScript** front-end, **Java Spring Boot** back-end and **PostgreSQL** database management. 
 
 🤝 I am social and love networking with people, thus I am constantly meeting new faces from all around the world.
 
