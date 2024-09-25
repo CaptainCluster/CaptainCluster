@@ -32,11 +32,12 @@ What do I use? 💻
 My shenanigans 🃏
 ---
 
-:computer: Not only do I study Software Engineering in a university, I program during my free time and utilize opportunities provided by establishments,
-such as **MOOC** and **FreeCodeCamp**.
+:computer: Not only do I study Software Engineering in a university, I program during my free time and explore new horizons in order to 
+evolve as both a person and a software engineer.
 
-💂‍♂️ Currently I am **contributing** to a project as a volunteer front-end developer. I am also working on my own personal full-stack application
-with **React TypeScript** front-end, **Java Spring Boot** back-end and **PostgreSQL** database management. 
+💂‍♂️ Currently I am learning **Rust** programming language due to both personal and study-related goals. I am also maintaining a web page for 
+an event, working as a webmaster for a university guild and a teaching assistant for a course. When I have time, I am also contributing
+to a project as a volunteer front-end developer.
 
 🤝 I am social and love networking with people, thus I am constantly meeting new faces from all around the world.
 
