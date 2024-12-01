@@ -39,7 +39,7 @@ My shenanigans 🃏
 :computer: Not only do I study Software Engineering in a university, I program during my free time and explore new horizons in order to 
 evolve as both a person and a software engineer.
 
-💂‍♂️ Currently I am learning **Rust** programming language due to both personal and study-related goals. 
+💂‍♂️ Currently I am doing volunteer work as a **Front-End** developer.
 
 🤝 I am social and love networking with people, thus I am constantly meeting new faces from all around the world.
 
