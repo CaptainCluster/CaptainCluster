@@ -33,7 +33,7 @@ My shenanigans 🃏
 :computer: Not only do I study Software Engineering in a university, I program during my free time and explore new horizons in order to 
 evolve as both a person and a software engineer.
 
-💂‍♂️ Currently I am doing volunteer work as a **Front-End** developer.
+💂‍♂️ Currently I am doing volunteer work as a **Front-End** developer and participating in a **React Hackathon**.
 
 🤝 I am social and love networking with people, thus I am constantly meeting new faces from all around the world.
 
