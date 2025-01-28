@@ -40,6 +40,9 @@ My projects 👷‍♂️
 **LUT Course Review Application**, a React Hackathon 2025 (LUT & TwoDay) project made by a team of four students
 [Link to repo](https://github.com/CaptainCluster/react_hackathon_2025)
 
+**FollowTracker**, a GitHub follow tracker made with Python that uses the GitHub API to track changes in followership
+[Link to repo](https://github.com/CaptainCluster/FollowTracker)
+
 My shenanigans 🃏
 ---
 
