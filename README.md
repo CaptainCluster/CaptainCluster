@@ -32,7 +32,7 @@ What do I use? 💻
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-Some of my projects 👷‍♂️
+My projects 👷‍♂️
 ---
 **LangMaster**, a Free and Open Source full-stack language learning web application (under development)
 [Link to repo](https://github.com/CaptainCluster/LangMaster)
