@@ -32,13 +32,21 @@ What do I use? 💻
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+My projects 👷‍♂️
+---
+**LangMaster**, a Free and Open Source full-stack language learning web application (under development)
+[Link to repo](https://github.com/CaptainCluster/LangMaster)
+
+**LUT Course Review Application**, a React Hackathon 2025 (LUT & TwoDay) project made by a team of four students
+[Link to repo](https://github.com/CaptainCluster/react_hackathon_2025)
+
 My shenanigans 🃏
 ---
 
 :computer: Not only do I study Software Engineering in a university, I program during my free time and explore new horizons in order to 
 evolve as both a person and a software engineer.
 
-💂‍♂️ Currently I am doing volunteer work as a **Front-End** developer and participating in a **React Hackathon**.
+💂‍♂️ Currently I am doing volunteer work as a **Front-End** developer (React TypeScript) and maintaining two university guild websites.
 
 🤝 I am social and love networking with people, thus I am constantly meeting new faces from all around the world.
 
