@@ -15,11 +15,9 @@ What do I use? 💻
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 [![General](https://skillicons.dev/icons?i=python,rust,cpp,c,bash)](https://skillicons.dev)
-
 [![Database](https://skillicons.dev/icons?i=postgres,mongodb,sqlite)](https://skillicons.dev)
 
 [![Other](https://skillicons.dev/icons?i=git,docker,wordpress)](https://skillicons.dev)
-
 [![OS](https://skillicons.dev/icons?i=linux,arch,debian,windows)](https://skillicons.dev)
 
 My projects 👷‍♂️
