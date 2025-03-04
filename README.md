@@ -24,6 +24,8 @@ My projects 👷‍♂️
 **LangMaster**, a Free and Open Source full-stack language learning web application (under development)
 [Link to repo](https://github.com/CaptainCluster/LangMaster)
 
+**Haalarilanit Website (Ruut Ry)**, the website for the Ruut Ry Haalarilanit event [Link to website](https://haalarilanit.ruut.me/)
+
 **LUT Course Review Application**, a React Hackathon 2025 (LUT & TwoDay) project made by a team of four students
 [Link to repo](https://github.com/CaptainCluster/react_hackathon_2025)
 
