@@ -31,8 +31,11 @@ What do I use? 💻
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 
-My projects 👷‍♂️
+Projects 👷‍♂️
 ---
+
+**Titeenipeli (2025)**, a game made for the Titeenit student event. I contributed as a frontend developer. [Link to repo](https://github.com/Cluster-ry/titeenipeli_25)
+
 **LangMaster**, a Free and Open Source full-stack language learning web application (under development)
 [Link to repo](https://github.com/CaptainCluster/LangMaster)
 
