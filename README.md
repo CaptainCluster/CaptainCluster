@@ -53,7 +53,8 @@ My shenanigans 🃏
 :computer: Not only do I study Software Engineering in a university, I program during my free time and explore new horizons in order to 
 evolve as both a person and a software engineer.
 
-💂‍♂️ Currently I am doing volunteer work as a **Front-End** developer (React TypeScript) and maintaining two university guild websites.
+💂‍♂️ Currently I am maintaining two university guild websites. Not only that, I am developing a language-learning application
+(LangMaster) and a new website for Cluster ry.
 
 🤝 I am social and love networking with people, thus I am constantly meeting new faces from all around the world.
 
