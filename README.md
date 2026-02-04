@@ -44,14 +44,3 @@ Projects 👷‍♂️
 **FollowTracker**, a GitHub follow tracker made with Python that uses the GitHub API to track changes in followership
 [Link to repo](https://github.com/CaptainCluster/FollowTracker)
 
-My stats 📊
----
-<div>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=captaincluster&show_icons=true&theme=great-gatsby" alt="GitHub Stats" height="200"/>
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=captaincluster&layout=donut&theme=great-gatsby" alt="Top Languages" height="200"/>
-    </a>
-</div>
-
