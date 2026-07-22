@@ -33,7 +33,7 @@ What do I use? 💻
 
 Projects 👷‍♂️
 ---
-**Shogunate (2026)**, a TV series tracking application developed by utilizing spec-driven development methodology. [Link to repo](https://github.com/CaptainCluster/shogunate) 
+**Shogunate (2026)**, a TV series tracking application developed with spec-driven development methodology. [Link to repo](https://github.com/CaptainCluster/shogunate) 
 
 **Escape Unveiled (2026)**, a game made in a weekend as part of a _Ruut Ry_ gamejam. I contributed as a game developer. [Link to game](https://globalgamejam.org/games/2026/escape-unveiled-9)
 
